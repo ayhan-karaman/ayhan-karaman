@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/Ayhan2860">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayhan2860&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=ayhan2860&repo=github-readme-stats&theme=material-palenight" />
 </a>    
 <a href="https://github.com/Ayhan2860">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
