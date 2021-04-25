@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ayhan2860">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api?username=ayhan2860&repo=github-readme-stats&theme=material-palenight" />
-</a>    
+</a>   
+<a href="https://github.com/Ayhan2860">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
+</a>
 <a href="https://github.com/Ayhan2860">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan2860&layout=compact&theme=material-palenight" />
 </a>
 
 
-<a href="https://github.com/Ayhan2860">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=material-palenight" />
-</a>
+
