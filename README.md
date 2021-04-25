@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </a>    
 <a href="https://github.com/Ayhan2860">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan2860&layout=compact&theme=material-palenight" />
+  <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan2860&layout=compact&theme=material-palenight" />
 </a>
 
 
