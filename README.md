@@ -6,12 +6,13 @@
 -  I also develop myself in the fields of .Net Framework, Html, Css, Javascript. 🥸
 
 <hr>
-<p align="center">
+<p  align="center">
   
-## ☎️   Connect with me:
+  ## ☎️   Connect with me:
   [![Linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-karaman)
   [![GMail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail)
-  </p>
+  
+</p>
 
 
 <a href="https://github.com/Ayhan2860">
