@@ -1,5 +1,4 @@
-### Hi there 👋
-### I'm Ayhan KARAMAN 
+<h1 align="center">Hi there 👋  I'm Ayhan KARAMAN</h1>
 
 
 
