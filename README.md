@@ -3,16 +3,20 @@
 <br/>
 
 ## 👽  Full Stack Developer :
--  I also develop myself in the fields of .Net Framework, Html, Css, Javascript. 🥸
 
+<p align="center">
+I also develop myself in the fields of .Net Framework, Html, Css, Javascript. 🥸
+</p>
 <hr>
-<p  align="center">
+
   
   ## ☎️   Connect with me:
+ <div align="center">
+  
   [![Linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-karaman)
   [![GMail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](https://mail.google.com/mail/mu/mp/603/#co)
   
-</p>
+</div>
 
 
 <a href="https://github.com/Ayhan2860">
