@@ -40,7 +40,7 @@
 
 <a href="https://ayhan2860.github.io/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img  align="right" top="0" width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan2860&repo=ayhan2860.github.io&layout=compact&theme=radical" />
+  <img  align="right" top="0" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan2860&repo=ayhan2860.github.io&layout=compact&theme=radical" />
 </a>
 
 </div>
