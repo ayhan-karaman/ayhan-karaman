@@ -26,7 +26,8 @@
 ![Sql](https://user-images.githubusercontent.com/68536015/166105921-36b183b9-319c-4f9f-9e17-7a52e60e4831.png)
 ![Visual Studio](https://user-images.githubusercontent.com/68536015/166107076-8b4a2249-8561-4586-b18a-ae0553f9798d.png)
 ![Visual Studio Code](https://user-images.githubusercontent.com/68536015/166107279-dff11890-20d0-45c0-b8ac-610f52a1b3b5.png)
-  
+![Postman](https://user-images.githubusercontent.com/68536015/166107744-91966457-9f9f-4ea4-bf43-c4ef8a09371b.png)
+
 </div>
 <hr/><br/>
 
