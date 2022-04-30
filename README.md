@@ -17,17 +17,17 @@
 ## 🎷 Languages And Tools:
 <div align="center">
   
-![Html](https://user-images.githubusercontent.com/68536015/166105808-e436b707-17ee-4457-8f3c-0106777edaeb.png)
-![Css](https://user-images.githubusercontent.com/68536015/166105825-4e43c824-d5b0-4368-bd80-e8832aa816c2.png)
-![JS](https://user-images.githubusercontent.com/68536015/166105776-6afc9d5f-c250-4df3-ade2-26152353fae0.png)
-![Bootstrap](https://user-images.githubusercontent.com/68536015/166107458-eff78ac9-213d-47e5-88a1-f70257442490.png)
-![Angular](https://user-images.githubusercontent.com/68536015/166107528-a8db2322-e217-4c00-af53-5e6be6a31cd7.png)
-![NET_Core](https://user-images.githubusercontent.com/68536015/166105629-e97d621a-dd2d-46f8-8d42-1f7791790142.png)
-![Sql](https://user-images.githubusercontent.com/68536015/166105921-36b183b9-319c-4f9f-9e17-7a52e60e4831.png)
-![image](https://user-images.githubusercontent.com/68536015/166107963-a3f786ac-1288-497e-a7cc-70b70da58459.png)
-![Visual Studio](https://user-images.githubusercontent.com/68536015/166107076-8b4a2249-8561-4586-b18a-ae0553f9798d.png)
-![Visual Studio Code](https://user-images.githubusercontent.com/68536015/166107279-dff11890-20d0-45c0-b8ac-610f52a1b3b5.png)
-![Postman](https://user-images.githubusercontent.com/68536015/166107744-91966457-9f9f-4ea4-bf43-c4ef8a09371b.png)
+[![Html](https://user-images.githubusercontent.com/68536015/166105808-e436b707-17ee-4457-8f3c-0106777edaeb.png)](https://www.w3schools.com/html/)
+[![Css](https://user-images.githubusercontent.com/68536015/166105825-4e43c824-d5b0-4368-bd80-e8832aa816c2.png)](https://www.w3schools.com/css/)
+[![JS](https://user-images.githubusercontent.com/68536015/166105776-6afc9d5f-c250-4df3-ade2-26152353fae0.png)](https://www.javascript.com/)
+[![Bootstrap](https://user-images.githubusercontent.com/68536015/166107458-eff78ac9-213d-47e5-88a1-f70257442490.png)](https://getbootstrap.com/)
+[![Angular](https://user-images.githubusercontent.com/68536015/166107528-a8db2322-e217-4c00-af53-5e6be6a31cd7.png)](https://angular.io/)
+[![NET_Core](https://user-images.githubusercontent.com/68536015/166105629-e97d621a-dd2d-46f8-8d42-1f7791790142.png)](https://dotnet.microsoft.com/en-us/)
+[![Sql](https://user-images.githubusercontent.com/68536015/166105921-36b183b9-319c-4f9f-9e17-7a52e60e4831.png)](https://www.w3schools.com/sql/)
+[![PostgreSql](https://user-images.githubusercontent.com/68536015/166107963-a3f786ac-1288-497e-a7cc-70b70da58459.png)](https://www.postgresql.org/)
+[![Visual Studio](https://user-images.githubusercontent.com/68536015/166107076-8b4a2249-8561-4586-b18a-ae0553f9798d.png)](https://visualstudio.microsoft.com/tr/vs/community/)
+[![Visual Studio Code](https://user-images.githubusercontent.com/68536015/166107279-dff11890-20d0-45c0-b8ac-610f52a1b3b5.png)](https://code.visualstudio.com/)
+[![Postman](https://user-images.githubusercontent.com/68536015/166107744-91966457-9f9f-4ea4-bf43-c4ef8a09371b.png)](https://www.postman.com/)
 
 </div>
 <hr/><br/>
