@@ -9,7 +9,6 @@
  <div align="center">
   
  [![Linkedin](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ayhan-karaman)
- 
  <a href="mailto:ayhan28ak@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></a>
  <a href="mailto:Ayhan28.ak@outlook.com.tr"><img src="https://img.shields.io/badge/OUTLOOK-0078D4?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white"></a>
 </div>
