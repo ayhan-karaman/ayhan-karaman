@@ -32,18 +32,18 @@
 <hr/><br/>
 <div>
 
-<a href="https://github.com/Ayhan2860">
+<a href="https://github.com/ayhan-karaman">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ayhan2860&repo=github-readme-stats&theme=radical" />
+  <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=ayhan-karaman&repo=github-readme-stats&theme=radical" />
 </a> 
 
-<a href="https://ayhan2860.github.io/">
+<a href="https://ayhan-karaman.github.io/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img  align="right" top="0" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan2860&repo=ayhan2860.github.io&layout=compact&theme=radical" />
+  <img  align="right" top="0" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayhan-karaman&repo=ayhan-karaman.github.io&layout=compact&theme=radical" />
 </a>
 
 </div>
-<!--![snake gif](https://github.com/Ayhan2860/Ayhan2860/blob/output/github-contribution-grid-snake.gif)-->
+<!--![snake gif](https://github.com/ayhan-karaman/ayhan-karaman/blob/output/github-contribution-grid-snake.gif)-->
 
 
 
